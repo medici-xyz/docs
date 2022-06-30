@@ -1,4 +1,3 @@
-git reset --hard origin/master
 ---
 sidebar_position: 1
 ---
