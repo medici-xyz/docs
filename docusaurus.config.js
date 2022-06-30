@@ -10,7 +10,7 @@ const config = {
   tagline: '',
   url: 'https://melodic-travesseiro-e12217.netlify.app',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
