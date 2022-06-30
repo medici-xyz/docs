@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Medici Labs',
   tagline: '',
-  url: 'https://melodic-travesseiro-e12217.netlify.app',
+  url: 'https://docs.medicilabs.xyz/',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -62,7 +62,7 @@ const config = {
         logo: {
           alt: 'Medici Labs Logo',
           src: 'img/logo.png',
-          href: 'https://melodic-travesseiro-e12217.netlify.app',
+          href: 'https://launch.medicilabs.xyz/',
         },
         items: [
           {
