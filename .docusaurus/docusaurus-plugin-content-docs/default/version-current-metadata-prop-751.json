@@ -1,0 +1,126 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "✨ Overview ✨",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Minting ✍️",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Feature Overview",
+            "href": "/docs/Minting/overview",
+            "docId": "Minting/overview"
+          },
+          {
+            "type": "link",
+            "label": "Collection Tutorial",
+            "href": "/docs/Minting/collection-tutorial",
+            "docId": "Minting/collection-tutorial"
+          },
+          {
+            "type": "link",
+            "label": "PFP Tutorial",
+            "href": "/docs/Minting/pfp-tutorial",
+            "docId": "Minting/pfp-tutorial"
+          }
+        ],
+        "href": "/docs/category/minting-️"
+      },
+      {
+        "type": "category",
+        "label": "Distribution 🖼",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a claim page",
+            "href": "/docs/Distribution/create-claim-page",
+            "docId": "Distribution/create-claim-page"
+          }
+        ],
+        "href": "/docs/category/distribution-"
+      },
+      {
+        "type": "category",
+        "label": "Designing A Launch 🧠",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Allow Lists",
+            "href": "/docs/How-To-Design-Your-Launch/allow-lists",
+            "docId": "How-To-Design-Your-Launch/allow-lists"
+          },
+          {
+            "type": "link",
+            "label": "Random Minting",
+            "href": "/docs/How-To-Design-Your-Launch/overview",
+            "docId": "How-To-Design-Your-Launch/overview"
+          }
+        ],
+        "href": "/docs/category/designing-a-launch-"
+      }
+    ]
+  },
+  "docs": {
+    "Distribution/create-claim-page": {
+      "id": "Distribution/create-claim-page",
+      "title": "Create a claim page",
+      "description": "🖼 Easy & customizable page for your NFT!",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-To-Design-Your-Launch/allow-lists": {
+      "id": "How-To-Design-Your-Launch/allow-lists",
+      "title": "Allow Lists",
+      "description": "The initial distribution of NFTs in your community can often determine its fate. In order to avoid a bad distribution you want to make sure that you reward contributors and active members! This can easily be done using an allow list. Medici's launch tool has an option upon project creation to accept an allow list, as well as to the option to trigger a claim period separately of the minting period.",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-To-Design-Your-Launch/overview": {
+      "id": "How-To-Design-Your-Launch/overview",
+      "title": "Random Minting",
+      "description": "It's a well known fact that many people are capable of exploiting how NFT contracts mint their tokens. This can lead to large distributions of your rarest tokens being minted to a small group of people. The current best solution for this is to randomly decide the token to mint at the time of the mint. This can be done with a randomness oracle or by incurring extra overhead of handling it inside your own contract. We believe the second option is a more robust option across different chains and currently implement the ERC721R standard described here//github.com/erc721r/ERC721R",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "✨ Overview ✨",
+      "description": "We believe NFTs are ✨magic✨. They're capable of turning the tenuous strands of the internet into value creating communities, but we're not the first to proclaim this. [1], [2], [3], [4]. And we wont be the last.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Minting/collection-tutorial": {
+      "id": "Minting/collection-tutorial",
+      "title": "Collection Tutorial",
+      "description": "Walkthrough launching a 10 image NFT collection!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Minting/overview": {
+      "id": "Minting/overview",
+      "title": "Feature Overview",
+      "description": "Our minting tool is designed to guide you through the process of turning your media or collections of media into NFTs easily and with as many options as possible to fit your unqiue use case!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Minting/pfp-tutorial": {
+      "id": "Minting/pfp-tutorial",
+      "title": "PFP Tutorial",
+      "description": "Walkthrough launching a 2k image NFT collection!",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

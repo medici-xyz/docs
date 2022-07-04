@@ -9,23 +9,23 @@ We believe NFTs are ✨magic✨. They're capable of turning the tenuous strands 
 
 ## What Makes Us Different
 
-We have two main focuses:
 
-1. NFTs should be ✨fun✨ - which means
-2. Your **launch** should be optimized - Sometimes smart contract optimization comes at the cost of UX. For exmaple, even though it costs slightly more gas, utilizing standards like ERC721R creates a much better experience for your community.
+We're a group of cryptonative enthusiasts with experience designing everything from communities to smart contracts to high scale indexers and we have two main focuses:
 
-
+1. NFTs should be ✨fun✨ - full stop. 
+2. Your **launch** should be optimized, not just your contracts. - [More here](https://docs.medicilabs.xyz/docs/category/designing-a-launch-).
 
 ## What do we offer ** now **
 
 
-You bring the media, we'll set you up with contracts and a custom minting site.
+Launch a :sparkles:community:sparkles: from start to finish using Medici's [launch tool](https://launch.medicilabs.xyz/) . You bring the media, we'll set you up with contracts and a custom minting site.
+
+<!-- <gif> -->
+
 
 
 
 ## Other Fun Things Were Thinking About
 
-* Programmable community fees
-* Off chain nft auction engine
-
-The problem with clearing NFTs on EVM based chains is that they are inherently tied the fall back first price auction that is tipping in ethereum 1559 mechanism. While roll ups will allow us to increase our total throughout, our burst capacity does not scale as much, and demand will most likely grow to fill this gap.
+* Programmable community fees - what could the NFT community build if we all direct 3% to a purpose focused treasury?
+* Off chain nft auction engine - Snapshot helped usher a boom in governance participation while

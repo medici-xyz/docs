@@ -1,0 +1,16 @@
+{
+  "title": "Minting ✍️",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/minting-️",
+  "permalink": "/docs/category/minting-️",
+  "navigation": {
+    "previous": {
+      "title": "✨ Overview ✨",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Feature Overview",
+      "permalink": "/docs/Minting/overview"
+    }
+  }
+}

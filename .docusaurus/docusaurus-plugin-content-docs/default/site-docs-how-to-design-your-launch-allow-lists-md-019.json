@@ -1,0 +1,27 @@
+{
+  "unversionedId": "How-To-Design-Your-Launch/allow-lists",
+  "id": "How-To-Design-Your-Launch/allow-lists",
+  "title": "Allow Lists",
+  "description": "The initial distribution of NFTs in your community can often determine its fate. In order to avoid a bad distribution you want to make sure that you reward contributors and active members! This can easily be done using an allow list. Medici's launch tool has an option upon project creation to accept an allow list, as well as to the option to trigger a claim period separately of the minting period.",
+  "source": "@site/docs/How-To-Design-Your-Launch/allow-lists.md",
+  "sourceDirName": "How-To-Design-Your-Launch",
+  "slug": "/How-To-Design-Your-Launch/allow-lists",
+  "permalink": "/docs/How-To-Design-Your-Launch/allow-lists",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How-To-Design-Your-Launch/allow-lists.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Designing A Launch 🧠",
+    "permalink": "/docs/category/designing-a-launch-"
+  },
+  "next": {
+    "title": "Random Minting",
+    "permalink": "/docs/How-To-Design-Your-Launch/overview"
+  }
+}

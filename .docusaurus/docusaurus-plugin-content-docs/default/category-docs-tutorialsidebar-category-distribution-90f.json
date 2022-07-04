@@ -1,0 +1,16 @@
+{
+  "title": "Distribution 🖼",
+  "description": "You have an NFT on chain, now you need a way for your community to interact with it!",
+  "slug": "/category/distribution-",
+  "permalink": "/docs/category/distribution-",
+  "navigation": {
+    "previous": {
+      "title": "PFP Tutorial",
+      "permalink": "/docs/Minting/pfp-tutorial"
+    },
+    "next": {
+      "title": "Create a claim page",
+      "permalink": "/docs/Distribution/create-claim-page"
+    }
+  }
+}

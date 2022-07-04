@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Distribution/create-claim-page",
+              "path": "/docs/Distribution/create-claim-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To-Design-Your-Launch/allow-lists",
+              "path": "/docs/How-To-Design-Your-Launch/allow-lists",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To-Design-Your-Launch/overview",
+              "path": "/docs/How-To-Design-Your-Launch/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Minting/collection-tutorial",
+              "path": "/docs/Minting/collection-tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Minting/overview",
+              "path": "/docs/Minting/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Minting/pfp-tutorial",
+              "path": "/docs/Minting/pfp-tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/minting-️",
+              "path": "/docs/category/minting-️",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/distribution-",
+              "path": "/docs/category/distribution-",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/designing-a-launch-",
+              "path": "/docs/category/designing-a-launch-",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

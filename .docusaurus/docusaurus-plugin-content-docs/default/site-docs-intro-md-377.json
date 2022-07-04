@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Intro",
+  "id": "Intro",
+  "title": "✨ Overview ✨",
+  "description": "We believe NFTs are ✨magic✨. They're capable of turning the tenuous strands of the internet into value creating communities, but we're not the first to proclaim this. [1], [2], [3], [4]. And we wont be the last.",
+  "source": "@site/docs/Intro.md",
+  "sourceDirName": ".",
+  "slug": "/Intro",
+  "permalink": "/docs/Intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Minting ✍️",
+    "permalink": "/docs/category/minting-️"
+  }
+}

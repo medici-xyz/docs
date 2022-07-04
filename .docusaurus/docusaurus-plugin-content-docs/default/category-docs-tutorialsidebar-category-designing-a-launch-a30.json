@@ -1,0 +1,16 @@
+{
+  "title": "Designing A Launch 🧠",
+  "description": "You have an NFT on chain, now you need a way for your community to interact with it!",
+  "slug": "/category/designing-a-launch-",
+  "permalink": "/docs/category/designing-a-launch-",
+  "navigation": {
+    "previous": {
+      "title": "Create a claim page",
+      "permalink": "/docs/Distribution/create-claim-page"
+    },
+    "next": {
+      "title": "Allow Lists",
+      "permalink": "/docs/How-To-Design-Your-Launch/allow-lists"
+    }
+  }
+}

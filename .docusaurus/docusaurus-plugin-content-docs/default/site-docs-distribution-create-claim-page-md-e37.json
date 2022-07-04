@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Distribution/create-claim-page",
+  "id": "Distribution/create-claim-page",
+  "title": "Create a claim page",
+  "description": "🖼 Easy & customizable page for your NFT!",
+  "source": "@site/docs/Distribution/create-claim-page.md",
+  "sourceDirName": "Distribution",
+  "slug": "/Distribution/create-claim-page",
+  "permalink": "/docs/Distribution/create-claim-page",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Distribution/create-claim-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Distribution 🖼",
+    "permalink": "/docs/category/distribution-"
+  },
+  "next": {
+    "title": "Designing A Launch 🧠",
+    "permalink": "/docs/category/designing-a-launch-"
+  }
+}

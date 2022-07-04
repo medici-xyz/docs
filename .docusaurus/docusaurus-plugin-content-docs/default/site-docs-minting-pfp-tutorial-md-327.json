@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Minting/pfp-tutorial",
+  "id": "Minting/pfp-tutorial",
+  "title": "PFP Tutorial",
+  "description": "Walkthrough launching a 2k image NFT collection!",
+  "source": "@site/docs/Minting/pfp-tutorial.md",
+  "sourceDirName": "Minting",
+  "slug": "/Minting/pfp-tutorial",
+  "permalink": "/docs/Minting/pfp-tutorial",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Minting/pfp-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Collection Tutorial",
+    "permalink": "/docs/Minting/collection-tutorial"
+  },
+  "next": {
+    "title": "Distribution 🖼",
+    "permalink": "/docs/category/distribution-"
+  }
+}
