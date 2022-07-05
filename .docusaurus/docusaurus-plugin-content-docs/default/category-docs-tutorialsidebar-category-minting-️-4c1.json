@@ -1,6 +1,6 @@
 {
   "title": "Minting ✍️",
-  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "description": "The on-chain component of your community!",
   "slug": "/category/minting-️",
   "permalink": "/docs/category/minting-️",
   "navigation": {
@@ -9,7 +9,7 @@
       "permalink": "/docs/intro"
     },
     "next": {
-      "title": "Feature Overview",
+      "title": "Features Overview",
       "permalink": "/docs/Minting/overview"
     }
   }

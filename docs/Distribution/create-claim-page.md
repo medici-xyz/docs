@@ -8,7 +8,7 @@ sidebar_position: 4
 
 ## Claim Page tool
 
-Using Medici's claim page creation tool you can create a variety of distinct visual identities that your community will use a gateway into your world!
+Using Medici's [claim page creation tool](https://launch.medicilabs.xyz/launch) you can create a variety of distinct visual identities that your community will use a gateway into your world!
 
 Our claim page creation tool is designed to be extremely customizable and operates off the idea of templates! Currently we support one template which is a minimal display for visual NFTs! 
 

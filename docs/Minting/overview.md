@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Feature Overview
+# Features Overview
 
 Our minting tool is designed to guide you through the process of turning your media or collections of media into NFTs easily and with as many options as possible to fit your unqiue use case!
 
@@ -63,28 +63,50 @@ An example metadata format:
 
 ## Collection Upload
 
-Zip files are the main way to upload to our backend, but there are a few specific naming and format requirements as well. We plan on removing the need for having number file names in the near future!
+Zip files are the main way to upload to our backend, but there are a few specific naming and format requirements as well. 
+
+### Collections w/ Metadata
+
+All collections with metadata must have numbered titles, and the media and metadata files should be separated. This format follows the default output of popular tools like [HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine). We plan on removing the need for having number file names in the near future!
 
 * Upload is limited to max 1k collections at the moment *
 
-Accepted folder structure for collection with metadata:
+Accepted folder structure:
 ```
-project_name
+project_name_media
 │   1.png
-│   1.json
 │   2.png
-│   2.json
 │   3.png
+│    .
+│    .
+│    .
+│   n.png
+
+project_name_metadata
+│   1.json
+│   2.json
 │   3.json
 │    .
 │    .
 │    .
-│   n.png
 │   n.json
 
 ```
-For a collection without metadata:
+### Collections w/o Metadata
+
+For a collection without metadata, you can simply upload the zipped folder. You can include the original names or use numbered names, either work!
+
 ```
+project_name
+│   name.png
+│   xyz.png
+│   thirdName.png
+│    .
+│    .
+│    .
+│   lastName.png
+
+// Alternate
 project_name
 │   1.png
 │   2.png
@@ -96,13 +118,13 @@ project_name
 
 ```
 
-For a collection of 500 identical NFTs:
+<!-- For a collection of 500 identical NFTs:
 ```
 project_name
 │   1.png
 
 
-```
+``` -->
 
 ------------------------- 
 

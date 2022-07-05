@@ -22,7 +22,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Feature Overview",
+            "label": "Features Overview",
             "href": "/docs/Minting/overview",
             "docId": "Minting/overview"
           },
@@ -112,7 +112,7 @@
     },
     "Minting/overview": {
       "id": "Minting/overview",
-      "title": "Feature Overview",
+      "title": "Features Overview",
       "description": "Our minting tool is designed to guide you through the process of turning your media or collections of media into NFTs easily and with as many options as possible to fit your unqiue use case!",
       "sidebar": "tutorialSidebar"
     },

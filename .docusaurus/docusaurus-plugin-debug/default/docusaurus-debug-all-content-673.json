@@ -137,7 +137,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Feature Overview",
+                "title": "Features Overview",
                 "permalink": "/docs/Minting/overview"
               },
               "next": {
@@ -148,7 +148,7 @@
             {
               "unversionedId": "Minting/overview",
               "id": "Minting/overview",
-              "title": "Feature Overview",
+              "title": "Features Overview",
               "description": "Our minting tool is designed to guide you through the process of turning your media or collections of media into NFTs easily and with as many options as possible to fit your unqiue use case!",
               "source": "@site/docs/Minting/overview.md",
               "sourceDirName": "Minting",
@@ -228,7 +228,7 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "description": "The on-chain component of your community!",
                   "slug": "/category/minting-️",
                   "permalink": "/docs/category/minting-️"
                 }
@@ -268,7 +268,7 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "You have an NFT on chain, now you need a way for your community to interact with it!",
+                  "description": "Having low gas costs isn't enough for a succesful launch, you need a little bit of ✨magic✨",
                   "slug": "/category/designing-a-launch-",
                   "permalink": "/docs/category/designing-a-launch-"
                 }
