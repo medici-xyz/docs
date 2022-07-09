@@ -16,13 +16,14 @@ We're a group of cryptonative enthusiasts with experience designing everything f
 1. NFTs should be ✨fun✨ - full stop. 
 2. Your **launch** should be optimized, not just your contracts. - [More here](https://docs.medicilabs.xyz/docs/category/designing-a-launch-).
 
+To achieve 1 & 2 we believe strongly that NFTs should migrate from Eth L1 to other new and vibrant chains which allow for more creativity in the NFT experience. Our first chain we're supporting is [Optimism](https://www.optimism.io/) which is an L2 rollup of Ethereum! We are also currently actively looking for more chains to add support for to help further the promise of NFTs!
+
 ## What do we offer ** now **
 
 
 Launch a :sparkles:community:sparkles: from start to finish using Medici's [launch tool](https://launch.medicilabs.xyz/) . You bring the media, we'll set you up with contracts and a custom minting site.
 
-<!-- <gif> -->
-
+![medici_demo1](https://user-images.githubusercontent.com/95067941/178121537-b1692160-f27c-4024-a1ea-16780d86592f.gif)
 
 
 
